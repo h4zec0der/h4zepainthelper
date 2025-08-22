@@ -18,11 +18,11 @@
 
 **🚀 Quick Start**
 ```
-1. **Load Image** - Click "Load image" to select your reference image
-2. **Adjust Transparency** - Use the slider to set desired opacity (10-100%)
-3. **Position Overlay** - Drag to move, resize using corner handles
-4. **Fix Position** - Lock the overlay in place for painting
-5. **Use Hotkeys** - Quick controls without interrupting workflow
+1. Click "Load image" to select your reference image
+2. Use the slider to set desired opacity (10-100%)
+3. Drag to move, resize using corner handles
+4. Lock the overlay in place for painting
+5. Quick controls without interrupting workflow
 ```
 **🎮 Interactive Controls**
 ```
@@ -33,17 +33,18 @@ Fix Position - Lock overlay and make it click-through
 ```
 
 **🖱️ Mouse Controls**
+```
 Drag Image - Click and drag to move overlay
 Resize - Click and drag corners to resize
 Corner Handles - Red circles indicate resize points
-
+```
 
 **⌨️ Hotkey Shortcuts**
 ```
 Ctrl+O - Show overlay window
 Ctrl+H - Hide overlay window
 Ctrl+F - Fix overlay position (make click-through)
-
+```
 
 **📊 Visual Feedback**
 ```
