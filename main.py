@@ -195,7 +195,7 @@ class h76sdfg45dg(QMainWindow):
         self.status_timer.start(500)
 
     def setup_ui(self):
-        self.setWindowTitle("Transparency overlay for painting")
+        self.setWindowTitle("h4zepaint helper 1.0")
         self.setGeometry(100, 100, 450, 300)
         
         central_widget = QWidget()
@@ -358,4 +358,5 @@ if __name__ == "__main__":
     window = h76sdfg45dg()
     window.show()
     
+
     sys.exit(app.exec_())
